@@ -66,6 +66,6 @@ SENTINEL_DEBUG=1 ./venv/bin/python bin/sentinel.py
 
 Any donation is highly appreciated.
 
-**BTC**: 32tAw218fqnPY1zdgZTEquM71aPViGLqAQ
-**ETH**: 0x39d10fe57611c564abc255ffd7e984dc97e9bd6d
+**BTC**: 32tAw218fqnPY1zdgZTEquM71aPViGLqAQ . 
+**ETH**: 0x39d10fe57611c564abc255ffd7e984dc97e9bd6d . 
 **LTC**: LXrWbfeejNQRmRvtzB6Te8yns93Tu3evGf
